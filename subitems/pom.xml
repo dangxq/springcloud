@@ -21,8 +21,6 @@
         <module>customer-ribbon</module>
         <module>customer-feign</module>
         <module>service-zuul</module>
-
-        <module>config-center</module>
     </modules>
 
     <properties>
