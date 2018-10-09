@@ -1,0 +1,2 @@
+> 在微服务架构中，业务都会被拆分成一个独立的服务，服务与服务的通讯是基于http restful的。Spring cloud有两种服务调用方式，一种是ribbon+restTemplate，另一种是feign
+，本服务为基于ribbon+restTemplate的服务调用
