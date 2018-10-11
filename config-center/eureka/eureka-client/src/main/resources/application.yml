@@ -1,9 +1,0 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://peer2:7001/eureka/
-server:
-  port: 7000
-spring:
-  application:
-    name: service-hi
