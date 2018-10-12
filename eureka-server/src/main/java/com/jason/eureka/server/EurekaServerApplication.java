@@ -1,4 +1,4 @@
-package com.jason.config.configcenter.eurekaserver;
+package com.jason.eureka.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
