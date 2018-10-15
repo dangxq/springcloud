@@ -10,6 +10,18 @@ spring:
           username:
           password:
       label: master
+# ---native
+#spring:
+#  application:
+#    name: config-server
+#  cloud:
+#    config:
+#      server:
+#        native:
+#          search-locations: classpath:/shared
+#  profiles:
+#    active: native
+
 server:
   port: 9001
 ##指定服务注册地址
@@ -17,3 +29,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://peer1:8761/eureka/,http://peer2:8762/eureka/
+
+#management:
+#  security:
+#    enabled: false
