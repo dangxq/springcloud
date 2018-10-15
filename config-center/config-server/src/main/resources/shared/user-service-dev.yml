@@ -1,0 +1,21 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: user-action
+  datasource:
+    name: springboot
+    url: jdbc:mysql://127.0.0.1:3306/springboot?useSSL=false
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+
+---
+mybatis:
+ mapper-locations: classpath:mapping/*.xml
+ type-aliases-package: com.jason.service.user.model
+# 打印sql
+logging:
+  level:
+    com.jason.service.user.mapper : debug
