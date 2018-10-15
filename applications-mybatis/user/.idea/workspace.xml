@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a17d93-562a-417d-b9eb-5e077590b3b6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../config-center/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../config-center/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../zipkin-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../zipkin-service/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../zipkin-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../zipkin-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatisTools" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybatisTools" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/user-action/target/" />
@@ -269,16 +262,15 @@
       <updated>1539575177737</updated>
       <workItem from="1539575180979" duration="62000" />
       <workItem from="1539575285464" duration="678000" />
-      <workItem from="1539576180268" duration="5480000" />
+      <workItem from="1539576180268" duration="6085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6220000" />
+    <option name="totallyTimeSpent" value="6825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
