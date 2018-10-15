@@ -20,3 +20,15 @@ eureka-server --> config-server --> config-client
 
 ### ◆浏览器访问
 http://localhost:9002/hello
+
+##远程仓库配置文件
+spring:
+  application:
+    name: user-service
+  cloud:
+    config:
+      label: master
+      profile: dev
+      discovery:
+        enabled: true
+        service-id: config-server
