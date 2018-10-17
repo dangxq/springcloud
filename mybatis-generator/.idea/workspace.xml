@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ea54e44-074a-42c0-99cd-443b13f075a7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/base.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/mybatis-generator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../base/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../config-center/config-server/src/main/resources/shared/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisg-generator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-hibernate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-hibernate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/MovieActionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/MovieActionApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/service/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/service/UserFeignService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/movie-action/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/movie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/movie/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/user/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/user/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/user/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/user/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/user/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/user/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/user/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/user/user-action/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/user/user-action/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../applications-mybatis/user/user-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../applications-mybatis/user/user.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../config-center/config-repo/movie-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../config-center/config-repo/movie-service-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../config-center/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../config-center/config-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mysql-connector-java-5.1.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../subitems/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../subitems/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="0ea54e44-074a-42c0-99cd-443b13f075a7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -268,12 +226,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539744419120</updated>
-      <workItem from="1539744422005" duration="323000" />
+      <workItem from="1539744422005" duration="713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="323000" />
+    <option name="totallyTimeSpent" value="713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -288,10 +246,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3293944" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966262" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
