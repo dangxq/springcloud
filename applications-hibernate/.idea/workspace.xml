@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9455679-c91c-4095-aa4d-a131be93f08a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../mybatisTools" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatisTools" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/mybatis-generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/shared/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/MovieActionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/MovieActionApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/service/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/service/UserFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/movie/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/user/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/user/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/user/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/user/user-action/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../applications-mybatis/user/user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-center/config-repo/movie-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-center/config-repo/movie-service-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subitems/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../subitems/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/monitor-service/target/" />
     <ignored path="$PROJECT_DIR$/admin-service/target/" />
@@ -22,7 +52,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -50,7 +90,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -64,6 +104,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,13 +114,41 @@
               <item name="SpringCloudInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="applications-hibernate" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpringCloudInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="applications-hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="applications-hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="applications-hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="applications-hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="applications-hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,15 +274,17 @@
       <updated>1539425988835</updated>
       <workItem from="1539425990251" duration="4896000" />
       <workItem from="1539571601891" duration="1367000" />
-      <workItem from="1539576178719" duration="1816000" />
+      <workItem from="1539576178719" duration="3116000" />
+      <workItem from="1539671328320" duration="678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8079000" />
+    <option name="totallyTimeSpent" value="10057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -234,7 +307,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25843453" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26248312" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -349,13 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zipkin-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
@@ -367,6 +433,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>

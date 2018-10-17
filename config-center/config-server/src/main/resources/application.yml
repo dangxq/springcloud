@@ -1,26 +1,26 @@
-spring:
-  application:
-    name: config-server
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/dangxq/springcloud/
-          search-paths: config-center/config-repo
-          username:
-          password:
-      label: master
-# ---native
 #spring:
 #  application:
 #    name: config-server
 #  cloud:
 #    config:
 #      server:
-#        native:
-#          search-locations: classpath:/shared
-#  profiles:
-#    active: native
+#        git:
+#          uri: https://github.com/dangxq/springcloud/
+#          search-paths: config-center/config-repo
+#          username:
+#          password:
+#      label: master
+# ---native
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/shared
+  profiles:
+    active: native
 
 server:
   port: 9001

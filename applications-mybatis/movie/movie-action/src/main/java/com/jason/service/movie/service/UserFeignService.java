@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @author Jason
  * @date 2018/10/13
  */
-@FeignClient(name = "user-action")
+@FeignClient(name = "user-service")
 public interface UserFeignService {
     @RequestMapping(value = "/user/{id}")
     UserDTO getUserNameByUserId(@PathVariable("id") String id);

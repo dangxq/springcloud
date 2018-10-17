@@ -1,5 +1,5 @@
 server:
-  port: 9003
+  port: 9002
 spring:
   datasource:
     name: springboot
@@ -13,7 +13,7 @@ spring:
 ---
 mybatis:
  mapper-locations: classpath:mapping/*.xml
- type-aliases-package: com.jason.service.user.model
+ type-aliases-package: com.jason.service.movie.model
 # 打印sql
 logging:
   level:

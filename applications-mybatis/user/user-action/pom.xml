@@ -4,15 +4,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jason.service.user</groupId>
-    <artifactId>user-action</artifactId>
+    <artifactId>user-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>user-action</name>
+    <name>user-service</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
-        <artifactId>user-service</artifactId>
+        <artifactId>user</artifactId>
         <groupId>com.jason.service.user</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
