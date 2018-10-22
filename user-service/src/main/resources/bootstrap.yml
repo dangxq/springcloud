@@ -1,0 +1,40 @@
+##远程仓库配置文件
+#spring:
+#  application:
+#    name: user-service
+#  cloud:
+#    config:
+#      label: master
+#      profile: dev
+#      discovery:
+#        enabled: true
+#        service-id: config-server
+
+##本地仓库配置文件
+spring:
+  application:
+    name: user-service
+  cloud:
+    config:
+      profile:
+        active: dev
+      discovery:
+        enabled: true
+        service-id: config-server
+
+#spring:
+#  datasource:
+#    name: springboot
+#    url: jdbc:mysql://127.0.0.1:3306/springboot?useSSL=false
+#    username: root
+#    password: 123456
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    driver-class-name: com.mysql.jdbc.Driver
+#---
+#mybatis:
+# mapper-locations: classpath:mapping/*.xml
+# type-aliases-package: com.jason.springcloud.user.userservice.model
+## 打印sql
+#logging:
+#  level:
+#    com.jason.service.user.mapper : debug

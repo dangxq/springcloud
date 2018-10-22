@@ -1,0 +1,22 @@
+##远程仓库配置文件
+#spring:
+#  application:
+#    name: zipkin-service
+#  cloud:
+#    config:
+#      label: master
+#      profile: dev
+#      discovery:
+#        enabled: true
+#        service-id: config-server
+
+##本地仓库配置文件
+spring:
+  application:
+    name: zipkin-service
+  cloud:
+    config:
+      profile: dev
+      discovery:
+        enabled: true
+        service-id: config-server
