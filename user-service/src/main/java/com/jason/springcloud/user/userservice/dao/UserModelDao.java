@@ -2,6 +2,7 @@ package com.jason.springcloud.user.userservice.dao;
 
 
 import com.jason.springcloud.user.userservice.model.UserModel;
+import org.apache.ibatis.annotations.Param;
 
 public interface UserModelDao {
     int deleteByPrimaryKey(Integer id);
@@ -12,7 +13,7 @@ public interface UserModelDao {
 
     UserModel selectByPrimaryKey(Integer id);
 
-    UserModel selectByUserName(String userName);
+    UserModel selectByUserName(@Param("userName") String userName);
 
     int updateByPrimaryKeySelective(UserModel record);
 

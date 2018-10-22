@@ -5,5 +5,12 @@ eureka:
       defaultZone: http://peer1:8761/eureka/,http://peer2:8762/eureka/
   instance:
     status-page-url: http://localhost:${server.port}/swagger-ui.html
+---
+spring:
+  zipkin:
+    base-url: http://localhost:9411 #集成Zipkin，查看链路调用
+  sleuth:
+    sampler:
+      percetage: 1.0
 
 

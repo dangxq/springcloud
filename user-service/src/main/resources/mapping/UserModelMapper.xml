@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="dao.UserModelMapper" >
-  <resultMap id="BaseResultMap" type="model.UserModel" >
+<mapper namespace="com.jason.springcloud.user.userservice.dao.UserModelDao" >
+  <resultMap id="BaseResultMap" type="com.jason.springcloud.user.userservice.model.UserModel" >
     <id column="ID" property="id" jdbcType="INTEGER" />
     <result column="user_name" property="userName" jdbcType="VARCHAR" />
     <result column="password" property="password" jdbcType="VARCHAR" />
@@ -16,17 +16,23 @@
     from tb_sys_user
     where ID = #{id,jdbcType=INTEGER}
   </select>
+  <select id="selectByUserName" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select
+    <include refid="Base_Column_List" />
+    from tb_sys_user
+    where user_name = #{userName,jdbcType=VARCHAR}
+  </select>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
     delete from tb_sys_user
     where ID = #{id,jdbcType=INTEGER}
   </delete>
-  <insert id="insert" parameterType="model.UserModel" >
+  <insert id="insert" parameterType="com.jason.springcloud.user.userservice.model.UserModel" >
     insert into tb_sys_user (ID, user_name, password, 
       user_code)
     values (#{id,jdbcType=INTEGER}, #{userName,jdbcType=VARCHAR}, #{password,jdbcType=VARCHAR}, 
       #{userCode,jdbcType=VARCHAR})
   </insert>
-  <insert id="insertSelective" parameterType="model.UserModel" >
+  <insert id="insertSelective" parameterType="com.jason.springcloud.user.userservice.model.UserModel" >
     insert into tb_sys_user
     <trim prefix="(" suffix=")" suffixOverrides="," >
       <if test="id != null" >
@@ -57,7 +63,7 @@
       </if>
     </trim>
   </insert>
-  <update id="updateByPrimaryKeySelective" parameterType="model.UserModel" >
+  <update id="updateByPrimaryKeySelective" parameterType="com.jason.springcloud.user.userservice.model.UserModel" >
     update tb_sys_user
     <set >
       <if test="userName != null" >
@@ -72,7 +78,7 @@
     </set>
     where ID = #{id,jdbcType=INTEGER}
   </update>
-  <update id="updateByPrimaryKey" parameterType="model.UserModel" >
+  <update id="updateByPrimaryKey" parameterType="com.jason.springcloud.user.userservice.model.UserModel" >
     update tb_sys_user
     set user_name = #{userName,jdbcType=VARCHAR},
       password = #{password,jdbcType=VARCHAR},

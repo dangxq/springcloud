@@ -16,8 +16,7 @@ spring:
     name: user-service
   cloud:
     config:
-      profile:
-        active: dev
+      profile: dev
       discovery:
         enabled: true
         service-id: config-server

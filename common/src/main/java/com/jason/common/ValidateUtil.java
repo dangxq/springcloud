@@ -1,4 +1,4 @@
-package com.jason.springcloud.user.userservice.common;
+package com.jason.common;
 
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;

@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0db6b59a-d120-4fb0-a5ed-f62977b586ce" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../common/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/src/main/java/com/jason/common/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/src/main/java/com/jason/common/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../common/src/main/java/com/jason/common/ValidateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/shared/gateway-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/shared/user-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/shared/zipkin-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/common/CommonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/common/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/common/ResponseEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/common/ValidateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/dao/UserModelDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/dto/ResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/jason/springcloud/user/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/resources/mapping/UserModelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/test/java/com/jason/springcloud/user/userservice/UserServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_micrometer_micrometer_registry_prometheus_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_buffer_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_codec_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_common_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_resolver_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_transport_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_prometheus_simpleclient_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_prometheus_simpleclient_common_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_undertow_undertow_core_1_4_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_undertow_undertow_servlet_1_4_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_zipkin_java_zipkin_autoconfigure_metrics_prometheus_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_zipkin_java_zipkin_autoconfigure_ui_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_zipkin_java_zipkin_server_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_zipkin_java_zipkin_ui_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_collector_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_glassfish_javax_el_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_2_spec_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_3_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_3_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_jsoup_jsoup_1_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_undertow_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_web_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zipkin-service/test/java/com/jason/zipkin/service/zipkinserver/ZipkinServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/admin-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/admin-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/admin-service/src/main/java/com/forezp/AdminServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/admin-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/admin-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/admin-service/src/test/java/com/forezp/AdminServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/BlogServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/aop/SysLoggerAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/client/UserServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/client/hystrix/UserServiceHystrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/config/GlobalMethodSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/config/JwtConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/config/RabbitConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/config/ResourceServerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/dao/BlogDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/dto/BlogDetailDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/entity/Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/entity/SysLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/exception/CommonExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/service/BlogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/service/LoggerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/util/HttpUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/util/UserUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/java/com/forezp/web/BlogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/main/resources/public.cert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/blog-service/src/test/java/com/forezp/BlogServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/src/main/java/com/forezp/annotation/SysLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/src/main/java/com/forezp/dto/RespDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/src/main/java/com/forezp/exception/CommonException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/common/src/main/java/com/forezp/exception/ErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/src/main/java/com/forezp/GatewayServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/gateway-service/src/test/java/com/forezp/GatewayServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/LogServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/config/RabbitConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/dao/SysLogDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/entity/SysLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/rabbit/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/rabbit/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/rabbit/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/java/com/forezp/service/SysLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/log-service/src/test/java/com/forezp/LogServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/logs/admin-service-pro.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/src/main/java/com/forezp/MonitorServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/monitor-service/src/test/java/com/forezp/MonitorServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/respo/account-service-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/respo/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/respo/gateway-service-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/respo/monitor-service-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/respo/user-service-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/sql/sys-blog.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/sql/sys-log.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/sql/sys-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/java/com/forezp/UaaServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/java/com/forezp/config/OAuth2Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/java/com/forezp/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/java/com/forezp/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/java/com/forezp/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/java/com/forezp/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/java/com/forezp/service/UserServiceDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/resources/fzp-jwt.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/uaa-service/src/test/java/com/forezp/UaaServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/UserServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/aop/SysLoggerAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/client/AuthServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/client/hystrix/AuthServiceHystrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/config/GlobalMethodSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/config/JwtConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/config/RabbitConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/config/ResourceServerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/dto/LoginDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/entity/JWT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/entity/SysLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/exception/CommonExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/service/LoggerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/util/BPwdEncoderUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/util/HttpUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/util/UserUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/java/com/forezp/web/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/main/resources/public.cert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/user-service/src/test/java/com/forezp/UserServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/src/main/java/com/forezp/ZipkinServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-hibernate/zipkin-service/src/test/java/com/forezp/ZipkinServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/MovieActionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/controller/MovieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/service/MovieService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/service/UserFeignService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/java/com/jason/service/movie/service/impl/MovieServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/resources/generator/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/main/resources/generator/mysql-connector-java-5.1.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-action/src/test/java/com/jason/service/movie/controller/MovieActionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/movie-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/movie/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/java/com/jason/service/user/UserActionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/java/com/jason/service/user/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/java/com/jason/service/user/mapper/UserModelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/java/com/jason/service/user/model/UserModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/java/com/jason/service/user/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/java/com/jason/service/user/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/resources/generator/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/resources/generator/mysql-connector-java-5.1.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/main/resources/mapping/UserModelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user-action/src/test/java/com/jason/service/user/controller/UserActionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applications-mybatis/user/user.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/shared/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-center/config-server/src/main/resources/shared/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-generator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis-generator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-generator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis-generator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-generator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis-generator/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/zipkin-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/zipkin-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/zipkin-server/src/main/java/com/jason/zipkin/service/zipkinserver/ZipkinServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/src/main/java/com/jason/zipkin/service/zipkinserver/ZipkinServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/zipkin-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/zipkin-server/src/test/java/com/jason/zipkin/service/zipkinserver/ZipkinServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/src/test/java/com/jason/zipkin/service/zipkinserver/ZipkinServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zipkin-service/zipkin-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../zipkin-service/zipkin-service.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1770">
+              <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/zipkin/service/zipkinserver/ZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jason/geteway/service/ZipkinServerApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geteway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geteway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mySpace\springcloud\zipkin-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GetewayServerApplication">
+    <configuration name="GetewayServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jason.geteway.service.GetewayServerApplication" />
+      <module name="geteway-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jason.geteway.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ZipkinServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="geteway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jason.zipkin.service.zipkinserver.ZipkinServerApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ZipkinServerApplication" />
+      <item itemvalue="Application.GetewayServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetewayServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0db6b59a-d120-4fb0-a5ed-f62977b586ce" name="Default" comment="" />
+      <created>1539841758078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539841758078</updated>
+      <workItem from="1539841761304" duration="3849000" />
+      <workItem from="1539941561429" duration="3336000" />
+      <workItem from="1539945095120" duration="139000" />
+      <workItem from="1540189511892" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7381000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62186116" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22807017" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6070901" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="59" column="23" lean-forward="true" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/geteway/service/ZipkinServerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jason/geteway/service/ZipkinServerApplication.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>geteway-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
