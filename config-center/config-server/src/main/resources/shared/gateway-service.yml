@@ -1,8 +1,13 @@
 server:
-  port: 9411
+  port: 5000
 
-management:
-  metrics:
-    web:
-      server:
-        auto-time-requests: false
+spring:
+  sleuth:
+    percentage: 1.0
+  zipkin:
+    base-url: http://localhost:9411 #集成Zipkin，查看链路调用
+zuul:
+  routes:
+    api-a:
+      path: /user-api/**
+      serviceId: user-service
