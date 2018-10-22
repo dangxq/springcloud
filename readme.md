@@ -28,7 +28,7 @@
 > Hystrix 是一个实现了超时机制和断路模式的工具类库。用于隔离访问远程系统、服务或者第三方库，防止级联失败，从而提升系统的可用性和容错性。
 
 ### Swagger2
-> http://localhost:{port}}/swagger-ui.html
+> http://{ip}:{port}/swagger-ui.html
 
 ### Actuator
 > Spring Boot Actuator 提供了很多监控断点。可以使用http://{ip}:{port}/actuator/{endpoint}的形式访问这些断电，从而了解应用程序的运行状况。
